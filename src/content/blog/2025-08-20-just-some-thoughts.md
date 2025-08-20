@@ -1,0 +1,1 @@
+{"type":"entry","name":"just some thoughts","summary":"kinda craG how this happens","content":{"html":"<p>i mean is that what you want</p>","text":"i mean is that what you want"},"post-status":"published","published":"2025-08-20T08:50:24.190Z","slug":"just-some-thoughts","url":"https://aman.bh/blog/2025/08/20/just-some-thoughts"}
